@@ -21,11 +21,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='todolist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](https://i.imgur.com/JDEu814.gifv).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Small bugs do to missing or misplaced punctutation
 
 ## License
 
