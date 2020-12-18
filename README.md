@@ -19,7 +19,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/JDEu814.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='todolist.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](https://i.imgur.com/JDEu814.gifv).
 
